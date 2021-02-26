@@ -20,4 +20,11 @@
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT></COMMENT>
 </MAP>
+<<<<<<< HEAD
+=======
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT></COMMENT>
+</MAP>
+>>>>>>> refs/remotes/origin/master
 </FLOW>
